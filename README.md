@@ -5,7 +5,7 @@
 
 
 
-- 👀 $\text{I’m interested in 0. Multimodal LLMs; 1. AI Safety.}$
+- 👀 $\text{I’m interested in 0. Multimodal LLMs; 1. AI Safety Alignment.}$
 
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
 👋 $\text{Innovative Design and Technology (Computer Science), HKU, 2024.09-2025.12}$
