@@ -6,7 +6,7 @@
 
 
 
-- 👀 $\text{I’m interested in 0. Multimodal LLMs; 1. AI Safety Alignment.}$
+- 👀 $\text{I’m interested in Multimodal LLMs.}$
 
 👋 $\text{I was a physics man, USTB, 2018.09-2022.06}$  
 👋 $\text{I was a LLMs man, HKU, 2024.09-2025.12}$
