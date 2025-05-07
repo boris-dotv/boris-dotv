@@ -5,7 +5,7 @@
 
 
 
-- 👀 $\text{I’m interested in MLLMs, LLMs Alignment and On-device inference.}$
+- 👀 $\text{I’m interested in MLLMs understanding, LLMs Alignment and On-device inference.}$
 
 👋 $\text{I studied physics in USTB, 2018.09-2022.06}$  
 👋 $\text{I studied AI in HKU, 2024.09-2025.12}$
