@@ -7,8 +7,8 @@
 
 - 👀 $\text{I’m interested in MLLMs understanding, LLMs Alignment and On-device inference.}$
 
-👋 $\text{I studied physics in USTB, 2018.09-2022.06}$  
-👋 $\text{I studied AI in HKU, 2024.09-2025.12}$
+👋 $\text{I studied physics in USTB, 2018-2022}$  
+👋 $\text{I studied AI in HKU, 2024-2026}$
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
