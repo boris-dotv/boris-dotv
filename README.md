@@ -6,7 +6,7 @@
 - 👀 $\text{I’m interested in MLLMs Alignment, On-device inference.}$
 
 
-👋 $\text{USTB (2018-2022) -> HKU (2024-2026)}$  
+👋 $\text{USTB (2018-2022) --> HKU (2024-2026)}$  
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
