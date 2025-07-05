@@ -1,16 +1,12 @@
 # Hi there, my name is boris (.v).
 
 🕸️ Personal Webpage: https://boris-jobs.github.io/  
-🫰 X: https://twitter.com/jobs_boris
-
 
 
 - 👀 $\text{I’m interested in MLLMs Alignment, On-device inference.}$
 
 
-
-👋 $\text{I studied physics in USTB, 2018-2022}$  
-👋 $\text{I studied AI in HKU, 2024-2026}$
+👋 $\text{USTB (2018-2022) -> HKU (2024-2026)}$  
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
