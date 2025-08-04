@@ -3,7 +3,7 @@
 🕸️ Personal Webpage: https://boris-jobs.github.io/  
 
 
-- 👀 $\text{I’m interested in MLLMs Alignment, On-device inference.}$
+- 👀 $\text{I’m interested in Reinforcement Learning, LLMs Alignment.}$
 
 
 👋 $\text{USTB (2018-2022) --> HKU (2024-2026)}$  
