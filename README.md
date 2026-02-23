@@ -3,14 +3,13 @@
 🕸️ Personal Webpage: https://boris-jobs.github.io/  
 
 
-- 👀 $\text{I’m interested in Reinforcement Learning, LLMs Alignment.}$
-
+- 👀 $\text{I’m interested in Reinforcement Learning; Infinite Context.}$
 
 👋 $\text{USTB (2018-2022) --> HKU (2024-2026)}$  
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
-✨ Long Term Goal ✨ Develop a personalized J.A.R.V.I.S. (named $\text{.v}$).
+✨ Long Term Goal ✨ Develop a personalized J.A.R.V.I.S.
 
 (My profile picture comes from [https://arxiv.org/pdf/1605.08112](https://arxiv.org/pdf/1605.08112).)
 
