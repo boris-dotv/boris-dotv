@@ -1,6 +1,6 @@
 # Hi there, my name is boris (.v).
 
-🕸️ Personal Webpage: https://boris-jobs.github.io/  
+🕸️ Personal Webpage: https://boris-dotv.github.io/  
 
 
 - 👀 $\text{I’m interested in Reinforcement Learning; Infinite Context.}$
