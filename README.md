@@ -5,8 +5,6 @@
 
 - 👀 $\text{I’m interested in Reinforcement Learning; Infinite Context.}$
 
-👋 $\text{USTB --> HKU}$  
-
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
 ✨ Long Term Goal ✨ Develop a personalized J.A.R.V.I.S.
